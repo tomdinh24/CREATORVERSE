@@ -31,15 +31,15 @@ The following **additional** features are implemented:
 
 - Each single creator page has its unique URL link based on the creator name, not a randomly generated number. This feature was made similar to other social
   webpages like Instagram, Twitter, YouTube, etc.
-- On hover, each creator card gets a little bigger with a under glow to attract user to check out the user information
+- On hover, each creator card gets a little bigger with an under glow to attract users to check out the user profile
 - Instead of using axios or fetch, I used Supabase documentation to retrieve data using the URL and API key 
   
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-https://cdn.smarterqueue.com/p/539/status/53910_768250dcf4af8cec5254710cfa4f3ee0.gif
+https://www.kapwing.com/videos/64d0928ed378d800117b4636
+<img src='https://www.kapwing.com/videos/64d0928ed378d800117b4636' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Utilize LiceCap to create the gif walkthrough of Creatorverse
 
