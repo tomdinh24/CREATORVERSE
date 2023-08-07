@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 https://www.kapwing.com/videos/64d0928ed378d800117b4636
-<img src='https://www.kapwing.com/videos/64d0928ed378d800117b4636' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="height: 0; padding-bottom: calc(63.55%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/64d0928ed378d800117b4636" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor"></a></p>
 
 Utilize LiceCap to create the gif walkthrough of Creatorverse
 
