@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="http://i.imgur.com/link/to/your/gif/file.gif" />
+<img src="https://cdn.smarterqueue.com/p/539/status/53910_768250dcf4af8cec5254710cfa4f3ee0.gif"  style={width:300,height:200}/>
 
 Utilize LiceCap to create the gif walkthrough of Creatorverse
 
