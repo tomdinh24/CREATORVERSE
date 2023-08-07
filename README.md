@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src="https://cdn-useast1.kapwing.com/final_64d0928ed378d800117b4636_219498.gif?GoogleAccessId=prod-sa-videoprocessing%40kapwing-prod.iam.gserviceaccount.com&Expires=1691995503&Signature=jKSMIFbAUuso2M4R3fx4xoDL%2FxwhFXNmZCotD0TBcjRX9p4wBi4ETVblDsVh2xw2ilgzS7geZapN2dfKNcHKXlj6WtUJeYXF%2FDQKFJg2g2VZQLjHZCfx0RXMIJ9eLA%2B79yQAuvqX94VrRytG5%2F7uYDxrhgB4m2ds0vRjdaKEpasvg7hLWkQzyRlU2DxMyOSOP2ISGtA64sfO1Fhy9TAyLn20XIVc2OplKgn1AqRYCmwhU4bYiIAvNpOU0Od%2BIw%2BDXSE%2BkBe4%2B2EInqpC91XOXzNbeGeQyhaeOKNNMdMNkNstzHdGwcqe1jeQdEmJkJKla8yJPNJaf5gNkFL2UdPbBA%3D%3D" />
+https://cdn.smarterqueue.com/p/539/status/53910_768250dcf4af8cec5254710cfa4f3ee0.gif
 
 
 Utilize LiceCap to create the gif walkthrough of Creatorverse
