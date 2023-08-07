@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://drive.google.com/file/d/1YpPe3mfj9kiqXldp255GcPCES77LPihz/view?usp=drive_link' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://drive.google.com/file/d/1YpPe3mfj9kiqXldp255GcPCES77LPihz/view?usp=drive_link
 
 Utilize LiceCap to create the gif walkthrough of Creatorverse
 
