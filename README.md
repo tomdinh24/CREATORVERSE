@@ -38,8 +38,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-https://www.kapwing.com/videos/64d0928ed378d800117b4636
-<div style="height: 0; padding-bottom: calc(63.55%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/64d0928ed378d800117b4636" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor"></a></p>
+<img src="https://cdn-useast1.kapwing.com/final_64d0928ed378d800117b4636_219498.gif?GoogleAccessId=prod-sa-videoprocessing%40kapwing-prod.iam.gserviceaccount.com&Expires=1691995503&Signature=jKSMIFbAUuso2M4R3fx4xoDL%2FxwhFXNmZCotD0TBcjRX9p4wBi4ETVblDsVh2xw2ilgzS7geZapN2dfKNcHKXlj6WtUJeYXF%2FDQKFJg2g2VZQLjHZCfx0RXMIJ9eLA%2B79yQAuvqX94VrRytG5%2F7uYDxrhgB4m2ds0vRjdaKEpasvg7hLWkQzyRlU2DxMyOSOP2ISGtA64sfO1Fhy9TAyLn20XIVc2OplKgn1AqRYCmwhU4bYiIAvNpOU0Od%2BIw%2BDXSE%2BkBe4%2B2EInqpC91XOXzNbeGeQyhaeOKNNMdMNkNstzHdGwcqe1jeQdEmJkJKla8yJPNJaf5gNkFL2UdPbBA%3D%3D" />
+
 
 Utilize LiceCap to create the gif walkthrough of Creatorverse
 
