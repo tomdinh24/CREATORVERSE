@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-https://cdn.smarterqueue.com/p/539/status/53910_768250dcf4af8cec5254710cfa4f3ee0.gif
+https://drive.google.com/file/d/1YpPe3mfj9kiqXldp255GcPCES77LPihz/view
 
 
 Utilize LiceCap to create the gif walkthrough of Creatorverse
